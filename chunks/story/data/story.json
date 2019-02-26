@@ -16,7 +16,7 @@
       "tags": ["Product", "How-To"],
       "categories": ["News", "Tutorials"],
       "summary": "Adesea se spune că o poză face cât o mie de cuvinte. Dar, oare câte cuvinte face o poză ce surprinde viața ascunsă a primelor 9 luni de viață? ",
-      "image": "https://imgur.com/MGY7tSp.png"
+      "image": "https://github.com/aclowwwn/march-for-life-2019/blob/master/assets/expozitie.jpg"
     },
     "lansare-carte": {
       "slug": "lansare-carte",
@@ -26,7 +26,7 @@
       "tags": ["Backstory", "Dream"],
       "categories": ["Articles", "News"],
       "summary": "Lansarea cărții pentru copii: Tudor, o poveste despre adopție a autoarei Veronica Iani, a adus împreună pe data de 9 martie, la Biblioteca Județeană „Octavian Goga” din Cluj-Napoca copii, părinți și educatori, dornici să afle mai multe despre ce înseamnă adopția și cum putem ajuta alți copii prin adopție.",
-      "image": "https://cdn.pixabay.com/photo/2018/02/03/21/07/hat-3128511_960_720.jpg"
+      "image": "https://github.com/aclowwwn/march-for-life-2019/blob/master/assets/lansare-carte.jpg"
     },
     "premiera-film": {
       "slug": "premiera-film",
@@ -35,7 +35,7 @@
       "tags": ["Education", "Backstory", "Productivity"],
       "categories": ["Articles"],
       "summary": "Documentarul realizat de Focus on the Family și Kindred Image, surprinde povestea familiei pastorului Lee din Corea de Sud care, într-un mod inedit, a salvat viețile a sute de nou născuți abandonați.",
-      "image": "https://imgur.com/9hPkQwA.jpg"
+      "image": "https://github.com/aclowwwn/march-for-life-2019/blob/master/assets/premiera-film.png"
     }
   }
 }
