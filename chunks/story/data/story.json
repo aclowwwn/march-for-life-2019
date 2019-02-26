@@ -1,0 +1,41 @@
+{
+  "categories": ["News", "Tutorials", "Articles", "Videos", "All"],
+  "hashtags": ["CarmelStory", "RoadTo1B", "EducationStory"],
+  "keywords": [
+    "learning to code",
+    "how to code",
+    "learn to code",
+    "learn how to code"
+  ],
+  "authors": [],
+  "chapters": {
+    "expozitie": {
+      "slug": "expozitie",
+      "title": "EXPOZIȚIA STRADALĂ: OBIECTIV CU VEDERE SPRE VIAȚĂ",
+      "date": "2019-02-11",
+      "tags": ["Product", "How-To"],
+      "categories": ["News", "Tutorials"],
+      "summary": "Adesea se spune că o poză face cât o mie de cuvinte. Dar, oare câte cuvinte face o poză ce surprinde viața ascunsă a primelor 9 luni de viață? ",
+      "image": "https://imgur.com/MGY7tSp.png"
+    },
+    "lansare-carte": {
+      "slug": "lansare-carte",
+      "author": "aclowwwn",
+      "title": "LANSAREA CĂRȚII PENTRU COPII: TUDOR, O POVESTE DESPRE ADOPȚIE",
+      "date": "2019-02-13",
+      "tags": ["Backstory", "Dream"],
+      "categories": ["Articles", "News"],
+      "summary": "Lansarea cărții pentru copii: Tudor, o poveste despre adopție a autoarei Veronica Iani, a adus împreună pe data de 9 martie, la Biblioteca Județeană „Octavian Goga” din Cluj-Napoca copii, părinți și educatori, dornici să afle mai multe despre ce înseamnă adopția și cum putem ajuta alți copii prin adopție.",
+      "image": "https://cdn.pixabay.com/photo/2018/02/03/21/07/hat-3128511_960_720.jpg"
+    },
+    "premiera-film": {
+      "slug": "premiera-film",
+      "title": "PREMIERA ÎN ROMÂNIA A FILMULUI DOCUMENTAR THE DROPBOX",
+      "date": "2018-11-19",
+      "tags": ["Education", "Backstory", "Productivity"],
+      "categories": ["Articles"],
+      "summary": "Documentarul realizat de Focus on the Family și Kindred Image, surprinde povestea familiei pastorului Lee din Corea de Sud care, într-un mod inedit, a salvat viețile a sute de nou născuți abandonați.",
+      "image": "https://imgur.com/9hPkQwA.jpg"
+    }
+  }
+}

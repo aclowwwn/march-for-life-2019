@@ -1,0 +1,15 @@
+{
+  "layout": {
+    "fixed": true
+  },
+  "permissions": {
+    "privateRedirect": "/me",
+    "publicRedirect": "/register"
+  },
+  "footer": {
+    "sections": [],
+    "socialMediaLinks": {
+      "facebook": "https://www.facebook.com/MarsulpentruViataClujNapoca/"
+      }
+  }
+}

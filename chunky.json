@@ -1,0 +1,41 @@
+{
+  "name": "aclowwwn",
+  "env": "dev",
+  "id": "io.chunky",
+  "androidSdkDir": "~/Library/Android/sdk",
+  "sections": {
+    "start": {
+      "stack": ["intro", "story", "support"]
+    }
+  },
+  "transitions": ["replace://start"],
+  "provisioning": {},
+  "theme": {
+    "logoImage": "logo.png",
+    "logoLightImage": "logo.png",
+    "headerColor": "#FF5722",
+    "textColor": "#546E7A",
+    "linkColor": "#0288D1",
+    "linkHoverColor": "#64B5F6",
+    "linkHoverBackgroundColor": "#F5F5F5",
+    "progressColor": "rgba(50,50,50,0.9)",
+    "primaryColor": "#501b1d",
+    "secondaryColor": "#3fa9f5",
+    "statusBarLight": false,
+    "navigationColor": "#fff",
+    "navigationTintColor": "#37474F",
+    "backgroundColor": "#999999",
+    "footerTintColor": "#000",
+    "footerHeaderColor": "#90A4AE",
+    "footerColor": "#c4def7",
+    "footerBottomColor": "#c4def7",
+    "footerSocialIconsColor": "#3fa9f5",
+    "footerSocialIconsColorHover": "#36d9d9"
+  },
+  "info": {
+    "copyright": "2019",
+    "watermark": "Created with Carmel",
+    "title": "marsulpentruviata"
+  },
+  "template": "personal"
+}

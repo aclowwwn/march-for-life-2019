@@ -1,0 +1,20 @@
+{
+  "doneColor": "#7e57c2",
+  "doneIcon": "check-circle",
+  "progressColor": "#00ACC1",
+  "progressIcon": "loading",
+  "todoColor": "#7e57c2",
+  "todoIcon": "clock-circle",
+  "milestones": [
+    {
+      "id": "1",
+      "title": "Zippy Technologies -> summer 2015 - winter 2018",
+      "status": "done"
+    },
+    {
+      "id": "3",
+      "title": "Fluid Trends -> March 2018 - present",
+      "status": "progress"
+    }
+  ]
+}
