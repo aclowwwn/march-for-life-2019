@@ -1,5 +1,3 @@
-## EXPOZIȚIA STRADALĂ: OBIECTIV CU VEDERE SPRE VIAȚĂ
-
 Adesea se spune că o poză face cât o mie de cuvinte. Dar, oare câte cuvinte face o poză ce surprinde viața ascunsă a primelor 9 luni de viață? Expoziția stradală ,,Obiectiv cu vedere spre viață” a adus în fața clujenilor, în premieră, o enciclopedie fotografică a primelor 9 luni de viață. 
 
 Conținutul expoziției a constat în 9 fotografii inedite ale omului în cele 9 luni de viață intrauterină, însoțite de informații științifice ce explică fiecare perioadă și un al 10-lea panou interactiv, pe care vizitatorii au putut scrie mărturii personale, impresii sau sugestii.

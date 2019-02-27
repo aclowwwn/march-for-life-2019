@@ -5,18 +5,6 @@
       "title": "Bun venit",
       "icon": "home",
       "path": "/",
-      "extendedMenu": [
-        {
-          "id": "despre",
-          "title": "Despre noi",
-          "path": "/despre"
-        },
-        {
-          "id": "contact",
-          "title": "Contact",
-          "path": "/contact"
-        }
-      ],
       "cover": {
         "opacity": 0,
         "backgroundColor": "#fffff",
@@ -36,15 +24,6 @@
           "image": "cover.r.png",
           "textColor": "#3fa9f5"
         },
-        "intro": {
-          "source": "summary",
-          "text": "local://intro",
-          "textColor": "#3fa9f5",
-          "backgroundColor": "#fde0f95c",
-          "animation": true,
-          "animationType": "zoom",
-          "animationOptions": ["top"]
-        },
         "getAccess": {
           "source": "buy",
           "hoverColor": "#3fa9f5",
@@ -61,16 +40,6 @@
           "title": "De ce participi la Marșul pentru viață?",
           "url": "https://www.facebook.com/MarsulpentruViataClujNapoca/videos/1456779124423291/",
           "image": "cover.r.png",
-          "textColor": "#3fa9f5"
-        },
-        "support": {
-          "source": "buy",
-          "hoverColor": "#3fa9f5",
-          "text": "local://support",
-          "path": "doneaza",
-          "buttonColor": "#3fa9f5",
-          "hoveredButtonColor": "#00d9ff",
-          "action": "Donează!",
           "textColor": "#3fa9f5"
         },
         "video3": {

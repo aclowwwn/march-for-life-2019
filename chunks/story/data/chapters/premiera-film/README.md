@@ -1,5 +1,3 @@
-## PREMIERA ÎN ROMÂNIA A FILMULUI DOCUMENTAR THE DROPBOX  - "CUTIA PENTRU LĂSAT BEBELUȘI"
-
 Documentarul realizat de Focus on the Family și Kindred Image, surprinde povestea familiei pastorului Lee din Corea de Sud care, într-un mod inedit, a salvat viețile a sute de nou născuți abandonați. 
 
 Totul a început cu cel de al doilea copil, care s-a născut cu malformații extrem de grave, medici neacordându-i nici o șansă. Dar, timp de 26 de ani pastorul Lee și soția lui și-au îngrijit copilul, dând dovadă de dragoste, sacrificiu și răbdare. Miracolul este că dragostea pentru fiul lor le-a deschis inima și casa și pentru zeci de alți copii abandonați din cauza dizabilităților.  

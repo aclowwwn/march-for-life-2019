@@ -1,5 +1,3 @@
-## LANSAREA CĂRȚII PENTRU COPII: TUDOR, O POVESTE DESPRE ADOPȚIE
-
 Lansarea cărții pentru copii: Tudor, o poveste despre adopție a autoarei Veronica Iani, a adus împreună pe data de 9 martie, la Biblioteca Județeană „Octavian Goga” din Cluj-Napoca copii, părinți și educatori, dornici să afle mai multe despre ce înseamnă adopția și cum putem ajuta alți copii prin adopție. Lansarea a constat într-un atelier de lectură interactiv în care au fost implicați Veronica Iani împreună cu toți cei veniți.  
 
 

@@ -160,7 +160,7 @@ export default class MainStoryScreen extends Screen {
         chapterId={chapterId}
         compact={this.props.compact}
         source={this.props.source}
-        goBack={() => this.props.history.push('/story')}
+        goBack={() => this.props.history.push('/2018')}
       />
     )
   }
@@ -173,6 +173,7 @@ export default class MainStoryScreen extends Screen {
           flex: 1,
           justifyContent: 'center',
           flexDirection: 'column',
+          marginBottom: '60vh',
           alignItems: 'center'
         }}
       >

@@ -299,10 +299,6 @@ export default class Chapter extends Component {
             <Components.Text
               source={`${source}/chapters/${chapterId}/README.md`}
             />
-            <CardActions style={{ margin: '10px' }}>
-              <p style={{ margin: 0 }}>Enjoying this story? Give it a share!</p>
-              {this.renderSocialIcons()}
-            </CardActions>
           </Card>
         )}
         <Button
@@ -314,7 +310,7 @@ export default class Chapter extends Component {
             borderColor: '#04bdd4'
           }}
         >
-          Read more Stories
+          Mergi înapoi
           <Icon type="book" />
         </Button>
         {this.renderModal()}

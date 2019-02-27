@@ -80,7 +80,7 @@ export default class ChapterPreview extends Component {
 
   renderDefaultActions() {
     const { video } = this.props.chapter
-    const btnText = video ? 'Watch Video' : 'Continue Reading'
+    const btnText = video ? 'Watch Video' : 'Citește în continuare'
 
     return (
       <CardActions style={{ margin: '10px' }}>
@@ -96,7 +96,7 @@ export default class ChapterPreview extends Component {
 
   renderCompactActions() {
     const { video } = this.props.chapter
-    const btnText = video ? 'Watch Video' : 'Continue Reading'
+    const btnText = video ? 'Watch Video' : 'Citește în continuare'
     return [
       <CardActions
         key="first"
@@ -268,6 +268,7 @@ export default class ChapterPreview extends Component {
                 tag="div"
                 style={{
                   color: '#263238',
+                  padding: '0 10px',
                   margin: '0px 0px 10px 0px'
                 }}
               >
@@ -276,7 +277,7 @@ export default class ChapterPreview extends Component {
               <Typography
                 use="body1"
                 tag="div"
-                style={{ textAlign: 'left', color: '#607D8B' }}
+                  style={{ textAlign: 'left', color: '#607D8B',  padding: '0 10px'}}
               >
                 {summary}
               </Typography>
