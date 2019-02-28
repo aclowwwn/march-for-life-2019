@@ -25,13 +25,14 @@
           "textColor": "#3fa9f5"
         },
         "getAccess": {
+          "id": "getAccess",
           "source": "buy",
           "hoverColor": "#3fa9f5",
           "text": "local://getinvolved",
-          "path": "doneaza",
+          "path": "2018/unic-din-prima-secunda",
           "buttonColor": "#3fa9f5",
           "hoveredButtonColor": "#00d9ff",
-          "action": "Vino si tu!",
+          "action": "Citește articolul",
           "textColor": "#3fa9f5"
         },
         "video2": {
@@ -51,10 +52,11 @@
           "textColor": "#3fa9f5"
         },
         "know": {
+          "id": "know",
           "source": "buy",
           "hoverColor": "#3fa9f5",
           "text": "local://knowmore",
-          "path": "despre",
+          "link": "https://clujulpentruviata.ro",
           "buttonColor": "#3fa9f5",
           "hoveredButtonColor": "#00d9ff",
           "action": "Află mai mult",
@@ -69,10 +71,11 @@
           "textColor": "#3fa9f5"
         },
         "help": {
+          "id": "help",
           "source": "buy",
           "hoverColor": "#3fa9f5",
           "text": "local://needhelp",
-          "path": "despre",
+          "link": "https://clujulpentruviata.ro",
           "buttonColor": "#3fa9f5",
           "hoveredButtonColor": "#00d9ff",
           "action": "Contactează-ne!",
@@ -89,7 +92,7 @@
         "organizers": {
           "source": "benefits",
           "benefits": [
-            { "text": "local://provita", "image": "clujulpentruviata.png" },
+            { "text": "local://provita", "image": "provita.png" },
             { "text": "local://clujulpentruviata", "image": "clujulpentruviata.png" }
           ],
           "textColor": "#3fa9f5"
