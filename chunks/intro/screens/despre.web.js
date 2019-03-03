@@ -12,6 +12,8 @@ export default class ContactScreen extends Screen {
   }
 
   components() {
-    return super.components().concat([])
+    return [
+      ...super.components()
+    ]
   }
 }

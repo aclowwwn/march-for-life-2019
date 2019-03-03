@@ -5,6 +5,16 @@
       "title": "2018",
       "icon": "home",
       "path": "/2018",
+      "cover": {
+        "opacity": 0,
+        "backgroundColor": "#fffff",
+        "navigation": true,
+        "color": "#fff",
+        "image": "2018.r.png",
+        "title": "Marșul pentru viață 2018",
+        "subtitle": "",
+        "type": "simple"
+      },
       "variants": true,
       "source": "https://raw.githubusercontent.com/aclowwwn/march-for-life-2019/master/chunks/story/data",
       "startOperationsOnMount": false

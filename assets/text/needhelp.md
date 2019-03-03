@@ -1,1 +1,1 @@
-# Ai nevoie de ajutor?
+# Mai multe despre organizatori

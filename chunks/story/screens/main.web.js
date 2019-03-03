@@ -16,6 +16,18 @@ export default class MainStoryScreen extends Screen {
     this._onChapterSelected = this.onChapterSelected.bind(this)
   }
 
+  get cover () {
+    const newCover = this.props.cover
+
+    if (this.dynamicVariant == 'unic-din-prima-secunda') {
+      newCover.title = 'Marșul pentru viață 2019'
+    } else {
+      newCover.title = 'Marșul pentru viață 2018'
+    }
+
+    return newCover
+  }
+
   componentDidMount() {
     super.componentDidMount()
 
@@ -116,6 +128,7 @@ export default class MainStoryScreen extends Screen {
     }
 
     let filteredStories = Object.keys(story.chapters)
+    let shifted = filteredStories.shift()
 
     return (
       <div
@@ -183,8 +196,6 @@ export default class MainStoryScreen extends Screen {
   }
 
   components() {
-
-    console.log(this.state)
 
     if (!this.state.story) {
       return [this.renderLoading()]

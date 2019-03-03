@@ -4,6 +4,7 @@
     "main": {
       "title": "Bun venit",
       "icon": "home",
+      "extendedMenu": [{ "title": "Despre noi", "path": "/despre" }],
       "path": "/",
       "cover": {
         "opacity": 0,
@@ -70,17 +71,6 @@
           "image": "cover.r.png",
           "textColor": "#3fa9f5"
         },
-        "help": {
-          "id": "help",
-          "source": "buy",
-          "hoverColor": "#3fa9f5",
-          "text": "local://needhelp",
-          "link": "https://clujulpentruviata.ro",
-          "buttonColor": "#3fa9f5",
-          "hoveredButtonColor": "#00d9ff",
-          "action": "Contactează-ne!",
-          "textColor": "#3fa9f5"
-        },
         "organizerstitle": {
           "source": "summary",
           "text": "local://organizers",
@@ -92,29 +82,25 @@
         "organizers": {
           "source": "benefits",
           "benefits": [
-            { "text": "local://provita", "image": "provita.png" },
-            { "text": "local://clujulpentruviata", "image": "clujulpentruviata.png" }
+            { "text": "local://clujulpentruviata", "image": "clujulpentruviata.png" },
+            { "text": "local://provita", "image": "provita.png" }
           ],
+          "textColor": "#3fa9f5"
+        },
+        "help": {
+          "id": "help",
+          "source": "buy",
+          "hoverColor": "#3fa9f5",
+          "text": "local://needhelp",
+          "path": "despre",
+          "buttonColor": "#3fa9f5",
+          "hoveredButtonColor": "#00d9ff",
+          "action": "Contactează-ne!",
           "textColor": "#3fa9f5"
         }
       }
     },
-    "contact": {
-      "title": "Contact Me",
-      "icon": "favorite",
-      "path": "/contact",
-      "cover": {
-        "opacity": 0,
-        "backgroundColor": "#fffff",
-        "navigation": true,
-        "color": "#7e57c2",
-        "image": "cover.r.png",
-        "title": "",
-        "subtitle": "",
-        "type": "default"
-      }
-    },
-    "about": {
+    "despre": {
       "title": "Despre noi",
       "icon": "favorite",
       "path": "/despre",
@@ -127,6 +113,33 @@
         "title": "",
         "subtitle": "",
         "type": "default"
+      },
+      "events": {
+        "clujulpentruviata": "https://clujulpentruviata.ro/",
+        "provita": "http://www.clinicaprovita.ro/"
+      },
+      "components": {
+        "features": [
+          {
+            "id": "clujulpentruviata",
+            "source": "feature",
+            "text": "local://clujulpentruviata",
+            "image": "clujulpentruviata.png",
+            "reversed": true,
+            "actionTitle": "Mai multe",
+            "backgroundColor": "#fff",
+            "textColor": "#0686d8"
+          },
+          {
+            "id": "provita",
+            "source": "feature",
+            "text": "local://provita",
+            "image": "provita.png",
+            "actionTitle": "Mai multe",
+            "backgroundColor": "#fff",
+            "textColor": "#0686d8"
+          }
+        ]
       }
     }
   }
