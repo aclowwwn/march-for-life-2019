@@ -36,19 +36,30 @@
           "action": "Citește articolul",
           "textColor": "#3fa9f5"
         },
+        "video3": {
+          "source": "presentation",
+          "hoverColor": "#3fa9f5",
+          "title": "Ucide avortul o ființă umană?",
+          "url": "https://www.youtube.com/watch?v=8vUbAn71yZg",
+          "image": "cover.r.png",
+          "textColor": "#3fa9f5"
+        },
+        "stop-it": {
+          "id": "stop-it",
+          "source": "buy",
+          "hoverColor": "#3fa9f5",
+          "text": "local://stop",
+          "path": "2018/opriti-uciderea-copiilor",
+          "buttonColor": "#3fa9f5",
+          "hoveredButtonColor": "#00d9ff",
+          "action": "Citește articolul",
+          "textColor": "#3fa9f5"
+        },
         "video2": {
           "source": "presentation",
           "hoverColor": "#3fa9f5",
           "title": "De ce participi la Marșul pentru viață?",
           "url": "https://www.facebook.com/MarsulpentruViataClujNapoca/videos/1456779124423291/",
-          "image": "cover.r.png",
-          "textColor": "#3fa9f5"
-        },
-        "video3": {
-          "source": "presentation",
-          "hoverColor": "#3fa9f5",
-          "title": "Pro-alegere?",
-          "url": "https://www.facebook.com/MarsulpentruViataClujNapoca/videos/1456728747761662/",
           "image": "cover.r.png",
           "textColor": "#3fa9f5"
         },
@@ -61,6 +72,14 @@
           "buttonColor": "#3fa9f5",
           "hoveredButtonColor": "#00d9ff",
           "action": "Află mai mult",
+          "textColor": "#3fa9f5"
+        },
+        "video4": {
+          "source": "presentation",
+          "hoverColor": "#3fa9f5",
+          "title": "Pro-alegere?",
+          "url": "https://www.facebook.com/MarsulpentruViataClujNapoca/videos/1456728747761662/",
+          "image": "cover.r.png",
           "textColor": "#3fa9f5"
         },
         "video4": {
